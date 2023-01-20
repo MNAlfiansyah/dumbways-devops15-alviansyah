@@ -6,7 +6,7 @@
 
 **2. BASH script untuk update dan upgrade server, lalu install nginx/apache2 (salah satu)**
 
-![alt_text](./images/11.png "image_tooltip")
+![alt_text](./images/1.png "image_tooltip")
 
 ![alt_text](./images/2.png "image_tooltip")
 
